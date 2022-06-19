@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/search_icon"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/liked_icon"
+        android:title="@string/liked" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ad"
+        android:title="@string/ad" />
+
+    <item
+        android:id="@+id/messag"
+        android:icon="@drawable/message_icon"
+        android:title="@string/message" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/person_icon"
+        android:title="@string/profile" />
+
+</menu>
